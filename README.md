@@ -3,7 +3,7 @@
 <p><strong>PROJECT OVERVIEW</strong></p>
 This project is a personal resume website built using HTML and CSS. It showcases my skills, experience, and education in a clean and professional layout. The design emphasizes readability, accessibility, and responsiveness to ensure a seamless viewing experience on any device.
 <br><br>
-<p><strong>Learning Objective:</strong> The objective of this project is to strengthen my HTML and CSS skills by focusing on structured content, responsive design, and typography. It helps me practice organizing information effectively while maintaining a polished and accessible layout</p>
+<p><strong>Learning Objective:</strong> The objective of this project is to strengthen my HTML and CSS skills by focusing on structured content, responsive design, and typography. It helps me practice organizing information effectively while maintaining a polished and accessible layout.</p>
 <br>
 <p><strong>FEATURES</strong></p>
 <ul>
