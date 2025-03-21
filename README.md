@@ -25,5 +25,5 @@ This project is a personal resume website built using HTML and CSS. It showcases
 </ul>
 <br>
 <footer>
-    <p>&copy; 2025 Ken Ekweme | <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+    <p>&copy; 2025 <a href="https://www.linkedin.com/in/ekweme-ken" target="_blank">Ken Ekweme</a> &bull; <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
 </footer>
